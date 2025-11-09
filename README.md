@@ -20,7 +20,7 @@ O sistema é composto por três módulos principais:
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter o Python 3.8 (ou superior) e o pip instalados.
+Antes de começar, certifique-se de ter o Python 3.12.6 (ou superior) e o pip instalados.
 
 ## Instalação
 
